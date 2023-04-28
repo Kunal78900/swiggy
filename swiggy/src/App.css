@@ -1,0 +1,18 @@
+.NAV {
+  background: rgb(0, 0, 0);
+}
+.BODY {
+  background-color: white  ;
+}
+
+.nav-link:hover{
+  font-weight: 700;
+  color: blue;
+}
+.nav-link {
+  color: #557392;
+}
+
+.carousel-item .d-block {
+  height: 680px;
+}
